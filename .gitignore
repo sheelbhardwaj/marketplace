@@ -1,0 +1,19 @@
+# Java
+*.class
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# Logs
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# OS
+.DS_Store
+Thumbs.db
